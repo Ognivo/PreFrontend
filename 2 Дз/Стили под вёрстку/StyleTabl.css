@@ -1,0 +1,50 @@
+#maket {
+    position: fixed;
+    width: 100%;
+    height: 13%;
+    left: 0%;
+    top: 0%;
+}
+#maket2 {
+    position: fixed;
+    top: 17%;
+    width: 100%;
+    height: 30%;
+    left: 0%;
+}
+#maket3 {
+    position: fixed;
+    top: 51%;
+    width: 100%;
+    height: 27%;
+    left: 0%;
+}
+#maket4 {
+    position: fixed;
+    top: 82%;
+    width: 100%;
+    height: 20%;
+    left: 0%;
+}
+TD {
+    vertical-align: top;
+    /* Вертикальное выравнивание в ячейках */
+    padding: 5px;
+    /* Поля вокруг ячеек */
+}
+
+TD#leftcol {
+    /* Ширина левой колонки */
+    background: rgb(229, 255, 0);
+    /* Цвет фона левой колонки */
+}
+
+TD#rightcol {
+    background: rgb(1, 255, 221);
+    /* Цвет фона правой колонки */
+}
+
+#spacer {
+    width: 1%;
+    /* Расстояние между колонками */
+}

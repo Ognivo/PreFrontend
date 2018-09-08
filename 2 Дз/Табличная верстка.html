@@ -1,25 +1,49 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
- <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Две колонки</title>
-  <style type="text/css">
-   #maket {
-    width: 100%; /* Ширина всей таблицы в процентах */
-   }
-   #maket TD {
-    vertical-align: top; /* Вертикальное выравнивание в ячейках */
-   }
-   TD#leftcol {
-    width: 200px; /* Ширина левой колонки в пикселах */
-   }
-  </style>
- </head>
- <body>
-  <table cellspacing="0" cellpadding="0" id="maket">
-   <tr> 
-    <td id="leftcol">Левая колонка</td><td>Правая колонка</td>
-   </tr>
-  </table>
- </body>
+
+<head>
+    <link rel="stylesheet" href="Стили под вёрстку/StyleTabl.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Две колонки</title>
+</head>
+
+<body>
+
+    <table cellspacing="0" id="maket">
+        <tr>
+            <td id="leftcol">Верх</td>
+            <td id="spacer"></td>
+            <td id="rightcol">Верх</td>
+        </tr>
+    </table>
+
+    <table cellspacing="0" id="maket2">
+        <tr>
+            <td id="leftcol">Большая середина</td>
+        </tr>
+    </table>
+
+    <table cellspacing="0" id="maket3">
+        <tr>
+            <td id="leftcol">Почти низ</td>
+            <td id="spacer"></td>
+            <td id="rightcol">Почти низ</td>
+            <td id="spacer"></td>
+            <td id="rightcol">Почти низ</td>
+        </tr>
+    </table>
+
+    <table cellspacing="0" id="maket4">
+        <tr>
+            <td id="leftcol">Низ</td>
+            <td id="spacer"></td>
+            <td id="leftcol">Низ</td>
+            <td id="spacer"></td>>
+            <td id="rightcol">Низ</td>
+            <td id="spacer"></td>
+            <td id="rightcol">Низ</td>
+        </tr>
+    </table>
+</body>
+
 </html>
