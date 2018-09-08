@@ -1,0 +1,97 @@
+ #Head1 {
+     position: fixed;
+     width: 49.5%;
+     height: 12%;
+     left: 0%;
+     background: #d66011;
+     /* Цвет фона */
+ }
+
+ #Head2 {
+     position: fixed;
+     width: 49.5%;
+     height: 12%;
+     right: 0;
+     background: #d66011;
+     /* Цвет фона */
+ }
+
+ #Seredina {
+     position: fixed;
+     width: 100%;
+     height: 30%;
+     left: 0%;
+     top: 17%;
+     background: #dde022;
+     /* Цвет фона */
+ }
+
+ #Taz1 {
+     position: fixed;
+     width: 32%;
+     height: 26%;
+     left: 0%;
+     top: 51%;
+     background: #3522e0;
+     /* Цвет фона */
+ }
+
+ #Taz2 {
+     position: fixed;
+     width: 32%;
+     height: 26%;
+     left: 34%;
+     top: 51%;
+     background: #3522e0;
+     /* Цвет фона */
+ }
+
+ #Taz3 {
+     position: fixed;
+     width: 32%;
+     height: 26%;
+     left: 68%;
+     top: 51%;
+     background: #3522e0;
+     /* Цвет фона */
+ }
+
+ #Noga1 {
+     position: fixed;
+     width: 24.25%;
+     height: 20%;
+     left: 0%;
+     top: 80%;
+     background: #888787;
+     /* Цвет фона */
+ }
+
+ #Noga2 {
+     position: fixed;
+     width: 24.25%;
+     height: 20%;
+     left: 25.25%;
+     top: 80%;
+     background: #888787;
+     /* Цвет фона */
+ }
+
+ #Noga3 {
+     position: fixed;
+     width: 24.25%;
+     height: 20%;
+     left: 50.5%;
+     top: 80%;
+     background: #888787;
+     /* Цвет фона */
+ }
+
+ #Noga4 {
+     position: fixed;
+     width: 24.25%;
+     height: 20%;
+     left: 75.75%;
+     top: 80%;
+     background: #888787;
+     /* Цвет фона */
+ }
