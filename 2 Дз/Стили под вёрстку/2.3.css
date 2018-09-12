@@ -1,0 +1,30 @@
+header
+{
+background-color: aqua;
+width: 90%;
+height: 162px;
+border-radius: 0px 0px 20px 20px; 
+}
+#menu {
+    position: fixed;
+    width: 10%;
+    height: 100%;
+    left: 90%;
+    top: 0%;
+    background: #ff006a81;
+    /* Цвет фона */
+}
+h3{border-style: outset;}
+#body {
+    width: 90%;
+    height: 90%;
+    left: 0;
+    background: #1618ad77;
+    /* Цвет фона */
+}
+footer
+{ background: #00f1d1;
+    width: 90%;
+    height: 162px;
+    border-radius: 10px 10px 0px 0px; 
+}
