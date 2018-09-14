@@ -1,0 +1,38 @@
+.container{
+    height: 500px;
+    display: flex;
+  
+
+}
+#box1 {
+    align-self: flex-end;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#box2 {
+    align-self: center;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+} 
+#box3{
+    align-self: flex-start;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#box4
+{
+    align-self: center;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}
+#box5
+{
+    align-self: flex-end;
+    background-color: purple;
+    height: 100px;
+    width: 100px;
+}

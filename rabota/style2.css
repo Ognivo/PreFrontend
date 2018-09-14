@@ -1,0 +1,26 @@
+.container{
+    height: 380px;
+    display: flex;
+    justify-content:  space-around; 
+    flex-wrap: wrap; 
+}
+    .square#box8 {flex-grow: 2}  
+
+#box1 ,#box2,#box3,#box4,#box5,#box6,#box7,#box8{
+    flex-direction: row;
+    background-color: purple;
+    height: 180px;
+    width: 120px;
+    margin: 5px;
+}
+#box8
+{height: 180px;
+    width: 240px;}
+
+#box9
+{
+    align-self: flex-end;
+    background-color: purple;
+    height: 120px;
+    width: 100%;
+}
