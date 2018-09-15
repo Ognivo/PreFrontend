@@ -12,7 +12,6 @@ border-radius: 0px 0px 20px 20px;
     left: 90%;
     top: 0%;
     background: #ff006a81;
-    /* Цвет фона */
 }
 h3{border-style: outset;}
 #body {
@@ -20,7 +19,6 @@ h3{border-style: outset;}
     height: 90%;
     left: 0;
     background: #1618ad77;
-    /* Цвет фона */
 }
 footer
 { background: #00f1d1;

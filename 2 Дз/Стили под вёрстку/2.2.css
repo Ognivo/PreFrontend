@@ -5,7 +5,6 @@
     height: 98%;
     left: 20%;
     top: 0%;
-    /* Цвет фона */
 }
 
 #square2 {
@@ -15,7 +14,6 @@
     left:20%;
     top: 1%;
     background: #ff0000;
-    /* Цвет фона */
 }
 
 #square1 {
@@ -25,7 +23,6 @@
     left: 35%;
     top: 20%;
     background: #04bb1c;
-    /* Цвет фона */
 }
 #square3 {
     position: fixed;
@@ -34,5 +31,4 @@
     left: 50%;
     top: 40%;
     background: #2f00ff;
-    /* Цвет фона */
 }

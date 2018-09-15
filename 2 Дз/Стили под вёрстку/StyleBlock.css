@@ -5,7 +5,6 @@
         left: 0%;
         top: 0%;
      background: #d66011;
-     /* Цвет фона */
  }
 
  #Head2 {
@@ -14,8 +13,6 @@
      height: 13%;
      right: 0;
      top: 0%;
-     background: #d66011;
-     /* Цвет фона */
  }
 
  #Seredina {
@@ -25,7 +22,6 @@
      left: 0%;
      top: 17%;
      background: #dde022;
-     /* Цвет фона */
  }
 
  #Taz1 {
@@ -35,7 +31,6 @@
      left: 0%;
      top: 51%;
      background: #3522e0;
-     /* Цвет фона */
  }
 
  #Taz2 {
@@ -45,7 +40,6 @@
      left: 34%;
      top: 51%;
      background: #3522e0;
-     /* Цвет фона */
  }
 
  #Taz3 {
@@ -55,7 +49,6 @@
      left: 68%;
      top: 51%;
      background: #3522e0;
-     /* Цвет фона */
  }
 
  #Noga1 {
@@ -65,7 +58,6 @@
      left: 0%;
      top: 82%;
      background: #888787;
-     /* Цвет фона */
  }
 
  #Noga2 {
@@ -75,7 +67,6 @@
      left: 25.25%;
      top: 82%;
      background: #888787;
-     /* Цвет фона */
  }
 
  #Noga3 {
@@ -85,7 +76,6 @@
      left: 50.5%;
      top: 82%;
      background: #888787;
-     /* Цвет фона */
  }
 
  #Noga4 {
@@ -95,5 +85,4 @@
      left: 75.75%;
      top: 82%;
      background: #888787;
-     /* Цвет фона */
  }
