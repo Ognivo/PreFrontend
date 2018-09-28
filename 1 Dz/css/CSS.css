@@ -1,16 +1,6 @@
-p {
-    color: ;
-    background-color;
-}
-
 P.ordinary {
-    /* Абзац с классом ordinary */
     color: navy;
-    /* Цвет текста */
     margin-left: 20px;
-    /* Отступ слева */
     border-left: 1px solid navy;
-    /* Граница слева от текста */
     padding-left: 15px;
-    /* Расстояние от линии до текста */
 }

@@ -1,0 +1,15 @@
+#container{
+    height: 800px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(72, 186, 214);
+}
+button {
+    margin-top: 50px;
+    height: 60px;
+    width: 120px;
+	color: white; 
+    background: rgb(18, 0, 180); 
+    border-radius: 10px; 
+	} 
