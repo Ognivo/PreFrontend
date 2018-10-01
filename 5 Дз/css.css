@@ -5,6 +5,7 @@
     justify-content: space-around;
     background-color: rgb(72, 186, 214);
 }
+
 button {
     margin-top: 50px;
     height: 60px;
@@ -12,4 +13,21 @@ button {
 	color: white; 
     background: rgb(18, 0, 180); 
     border-radius: 10px; 
-	} 
+    } 
+
+
+    .notification {
+        position: fixed;
+        z-index: 1000;
+        padding: 5px;
+        border: 1px solid black;
+        font: normal 20px Georgia;
+        background: white;
+        text-align: center;
+      }
+      
+      .welcome {
+        background: red;
+        color: yellow;
+      }
+      
